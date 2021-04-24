@@ -2,4 +2,6 @@
 
 Contract-based approach to specify distributed dataflows.
 
-Main Java API implementation.
+- Java (and Kotlin) API implementation here.
+- Python API implementation: https://github.com/flame-stream/palco
+- Haskell (prototype) API implementation: https://github.com/flame-stream/halco
